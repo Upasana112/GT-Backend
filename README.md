@@ -16,8 +16,8 @@ This project is a Sports Facility Booking System that allows users to book sport
 
 1. Clone the repository:
    ```
-   git clone [your-repository-url]
-   cd [your-project-directory]
+   git clone [repository-url]
+   cd [project-directory]
    ```
 
 2. Install dependencies:
