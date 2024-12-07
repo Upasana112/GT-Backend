@@ -72,8 +72,8 @@ This project is a Sports Facility Booking System that allows users to book sport
 
 ## Deployed Applications
 
-- Frontend:https://skedular-gt-frontend.vercel.app/
-- Backend:https://skedulargt.onrender.com/
+- Frontend:https://gt-frontend-ogo5.onrender.com
+- Backend:https://gt-backend-q1j5.onrender.com
 
 ## Future Improvements
 
